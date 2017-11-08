@@ -4,4 +4,21 @@ It is a little handy tool helps you to check Antivirus real time virus detection
 
 It is Open Source Application Developed by **Rox Studio Developer** for Testing Antivirus
 
-## How to use Malax to Check Antivirus Real Time Virus Detection
+## How to use Malax to Check Antivirus Real Time virus Detection is working or not ?
+1. Download Latest Version of Malax Antivirus Tester.
+
+2. just Open it **or** Open with Java Runtime Environment.
+
+3. Then, click on Test(It will show you result).
+
+4. Done
+
+## Requirements
+
+ Operating System :-Platform Independent(Window,Linux,Mac etc)
+
+ Software required :-Java Runtime Environment (JRE).
+
+ Library :-JFoenix.jar **Already added**
+
+## Thank You
