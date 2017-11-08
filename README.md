@@ -1,0 +1,1 @@
+# malax-antivirus-tester
