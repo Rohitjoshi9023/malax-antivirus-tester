@@ -4,4 +4,4 @@ It is a little handy tool helps you to check Antivirus real time virus detection
 
 It is Open Source Application Developed by **Rox Studio Developer** for Testing Antivirus
 
-## How to use Malax to Detect Antivirus Real Time virus Detection is working or not ??
+## How to use Malax to Check Antivirus Real Time virus Detection is working or not ?
