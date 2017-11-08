@@ -19,6 +19,6 @@ It is Open Source Application Developed by **Rox Studio Developer** for Testing 
 
  Software required :-Java Runtime Environment (JRE).
 
- Library :-JFoenix.jar **Already added**
+ Library :- **Not Required**
 
 ## Thank You
